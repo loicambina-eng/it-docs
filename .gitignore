@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+/.env
+/public/build
+/storage/app/private/documents/*
+!/storage/app/private/documents/.gitkeep
+/storage/app/private/document-previews/*
+!/storage/app/private/document-previews/.gitignore
+/storage/app/public/profiles/*
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*.log
+/bootstrap/cache/*.php
